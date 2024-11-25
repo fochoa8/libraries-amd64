@@ -1,0 +1,22 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\fochoao\libraries-amd64\xz-5.6.3\windows\build\cmakefiles\debug\xz.exe' is denied.
+  Building Custom Rule C:/Users/fochoao/libraries-amd64/xz-5.6.3/CMakeLists.txt
+  tuklib_exit.c
+  tuklib_mbstr_fw.c
+  tuklib_mbstr_width.c
+  tuklib_open_stdxxx.c
+  tuklib_progname.c
+  args.c
+  coder.c
+  file_io.c
+  hardware.c
+  main.c
+  message.c
+  mytime.c
+  options.c
+  sandbox.c
+  signals.c
+  suffix.c
+  util.c
+  list.c
+  Generating Code...
+  xz.vcxproj -> C:\Users\fochoao\libraries-amd64\xz-5.6.3\windows\build\CMakeFiles\Debug\xz.exe

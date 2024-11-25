@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/fochoao/libraries-amd64/xz-5.6.3/CMakeLists.txt
+  tuklib_exit.c
+  tuklib_progname.c
+  xzdec.c
+  Generating Code...
+  xzdec.vcxproj -> C:\Users\fochoao\libraries-amd64\xz-5.6.3\windows\build\CMakeFiles\Debug\xzdec.exe

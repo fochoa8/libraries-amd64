@@ -1,0 +1,1 @@
+C:\Users\fochoao\libraries-amd64\xz-5.6.3\windows\build\CMakeFiles\tests_w32res.dir\Debug\tests_w32res.lib

@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/fochoao/libraries-amd64/xz-5.6.3/CMakeLists.txt
+  getopt1.c
+  getopt.c
+  Generating Code...
+  libgnu.vcxproj -> C:\Users\fochoao\libraries-amd64\xz-5.6.3\windows\build\CMakeFiles\libgnu.dir\Debug\libgnu.lib
